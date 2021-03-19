@@ -16,30 +16,24 @@ skill:
   enable: true
   title: Topics
   item:
+  - title: Cloud Dev
+    progress: 24.3%
+    color: "#11ff11"
+  - title: DevOps
+    progress: 24.3%
+    color: "#bdecf6"
   - title: General
     progress: 18.18%
-    color: "#ffffff"
-  - title: Functional
-    progress: 9.4%
-    color: "#7700ff"
-  - title: Cloud Dev
-    progress: 15.6%
-    color: "#11ff11"
-  - title: ML
-    progress: 6.25%
-    color: ff11ff
+    color: "#000000"
   - title: ".NET Development"
-    progress: 12.5%
+    progress: 15.2%
     color: "#fdb157"
-  - title: General Dev Topics
-    progress: 18.75%
-    color: "#9473e6"
-  - title: DevOps
-    progress: "18.75"
-    color: "#bdecf6"
-  - title: WebDev
-    progress: 9.4%
-    color: "#ffbcaa"
+  - title: Functional
+    progress: 9.1%
+    color: "#7700ff"
+  - title: ML
+    progress: 9.1%
+    color: "#ff11ff"
 experience:
   enable: true
   title: Experience
