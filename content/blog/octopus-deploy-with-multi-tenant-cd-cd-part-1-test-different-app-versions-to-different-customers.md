@@ -1,7 +1,6 @@
 +++
 date = 2021-11-22T08:00:00Z
 description = ""
-draft = true
 image = "/images/ryanrousseau.png"
 title = "Octopus Deploy with Multi-Tenant CD/CD | Part 1 - Test Different App Versions to Different Customers"
 
