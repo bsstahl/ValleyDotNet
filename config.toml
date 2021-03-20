@@ -4,17 +4,13 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "The Valley of the Sun .NET User Groups"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "PO Box 63262 Phoenix AZ 85082"
 author = "Barry S. Stahl"
