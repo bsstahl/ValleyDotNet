@@ -52,3 +52,5 @@ icon = "ti-twitter"
 [[params.social]]
 URL = "https://twitter.com/sevdnug/"
 icon = "ti-twitter-alt"
+[markup.goldmark.renderer]
+unsafe= true
