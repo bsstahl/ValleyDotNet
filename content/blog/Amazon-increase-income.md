@@ -6,7 +6,7 @@ description: 'Beyond the Model: Operationalizing 4,586 Bigfoot Sightings with Gu
   Royse'
 
 ---
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/LtrS5ENc_84](https://www.youtube.com/embed/LtrS5ENc_84 "https://www.youtube.com/embed/LtrS5ENc_84")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LtrS5ENc_84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Bigfoot has been a staple of American folklore since the 19th century. Many people are convinced that Bigfoot is real. Others suggest that he is a cultural phenomenon. Some just want to believe. There is even a group, the Bigfoot Field Researchers Organization, that tracks Bigfoot sightings. And they have thousands of reports available online that date back to the late 19th century.
 
