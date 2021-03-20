@@ -1,6 +1,6 @@
 ---
 title: 'Beyond the Model: Operationalizing 4,586 Bigfoot Sightings with Guy Royse'
-date: 2019-03-01T08:00:00.000+00:00
+date: 2019-03-01T01:00:00.000+00:00
 image: "/images/guy-royse.png"
 description: 'Beyond the Model: Operationalizing 4,586 Bigfoot Sightings with Guy
   Royse'

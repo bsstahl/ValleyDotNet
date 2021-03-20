@@ -1,6 +1,6 @@
 ---
 title: ".NET, .NET Core and PowerShell Development on AWS"
-date: 2019-03-29T08:00:34+00:00
+date: 2019-03-29T01:00:34+00:00
 image: "/images/steveroberts.png"
 description: ''
 
