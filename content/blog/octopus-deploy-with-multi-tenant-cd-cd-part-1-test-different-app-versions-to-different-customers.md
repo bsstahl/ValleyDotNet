@@ -15,6 +15,7 @@ Even if your application doesn't support tenants, there are several reasons that
 If I've piqued your curiosity, join me in this session where we'll walk through multi-tenant deployment patterns and how they enable these scenarios for your team. We'll configure some example multi-tenant deployments in Octopus Deploy and show how your CI server can play a role in supporting the multi-tenant pipeline.
 
 Concepts covered:
+
 - Multi-tenant application types
 - Multi-tenant deployment patterns
 - Continuous Delivery / Deployment Automation Server (Octopus Deploy)
@@ -27,4 +28,4 @@ Ryan works with some of Octopus Deploy's largest customers to help them be succe
 
 Before joining the Customer Success team at Octopus, Ryan was a developer and happy Octopus Deploy user. He's always taken an interest in improving processes and automating tasks where possible. This naturally led him to CI/CD and a several phase project to improve his team's build and deploy pipeline. By the end, his team had a fully automated build and deploy process that integrated with our other tools through APIs. They even had recurring scheduled deployments to keep our test and demo environments up to date.
 
-Outside of developing and advocating, Ryan performs comedy around Dallas, belongs to two needy cats, and likes to travel to new places and sampling their vegan food.![](/images/ryanrousseau.png)
+Outside of developing and advocating, Ryan performs comedy around Dallas, belongs to two needy cats, and likes to travel to new places and sampling their vegan food!
