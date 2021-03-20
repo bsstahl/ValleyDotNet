@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "Doks"
+theme = "kross-hugo"
 title = "The Valley of the Sun .NET User Groups"
 [[menu.main]]
 URL = "about"
