@@ -15,5 +15,6 @@ fields:
   name: description
   label: description
 pages:
+- content/blog/develop-from-anywhere-with-visual-studio-online.md
 - content/blog/octopus-deploy-with-multi-tenant-cd-cd-part-1-test-different-app-versions-to-different-customers.md
 - content/blog/octopus-deploy-with-multi-tenant-cd-cd-part-2-test-different-app-versions-to-different-customers.md
