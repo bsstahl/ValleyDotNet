@@ -5,11 +5,9 @@ about:
   enable: true
   content: "The combined .NET user groups in the Valley of the Sun (Phoenix AZ USA
     metropolitan area). \n\nDuring the Covid-19 pandemic, these groups meet together,
-    on a monthly basis, to discuss topics of interest to .NET developers.\n\nWhen
-    not in a global pandemic, these groups meet separately, as follows:\n\n  * NWVDNUG
-    - in the NW valley, on the Wednesday before the 4th Thursday of each month, starting
-    at 6pm.\n\n  * SEVDNUG - in the SE valley, on the 4th Thursday of each month,
-    starting at 6pm."
+    on a monthly basis, to discuss topics of interest to .NET developers.\n\nSee our
+    meetup pages at [NWVDNUG](https://www.meetup.com/nwvdnug/) and [SEVDNUG](https://www.meetup.com/sevdnug/)
+    to signup."
   button:
     enable: false
     label: know more
