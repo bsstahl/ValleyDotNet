@@ -8,10 +8,6 @@ URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 4
@@ -20,15 +16,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = "PO Box 63262 Phoenix AZ 85082"
+author = "Barry S. Stahl"
+copyright = "Copyrighht &copy; 2021"
 description = "This is meta description"
-email = "steve.fruits@email.com"
-google_analitycs_id = "Your ID"
+email = "valleyofthesundotnet@bsstahl.com"
+google_analitycs_id = ""
 home = "Home"
-logo = "images/logo.png"
-phone = "+880 2544 658 256"
+logo = "images/logo.svg"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
