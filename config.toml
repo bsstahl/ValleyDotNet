@@ -47,8 +47,8 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "https://www.meetup.com/nwvdnug/"
-icon = "ti-arrow-top-left"
+URL = "https://twitter.com/nwvdnug"
+icon = "ti-twitter"
 [[params.social]]
-URL = "https://www.meetup.com/sevdnug/"
-icon = "ti-arrow-bottom-right"
+URL = "https://twitter.com/sevdnug/"
+icon = "ti-twitter"
