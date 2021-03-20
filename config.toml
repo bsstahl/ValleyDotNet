@@ -52,9 +52,3 @@ icon = "ti-arrow-top-left"
 [[params.social]]
 URL = "https://www.meetup.com/sevdnug/"
 icon = "ti-arrow-bottom-right"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
