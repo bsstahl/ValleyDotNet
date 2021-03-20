@@ -50,8 +50,8 @@ preloader = ""
 URL = "https://www.meetup.com/nwvdnug/"
 icon = "ti-arrow-top-left"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
+URL = "https://www.meetup.com/sevdnug/"
+icon = "ti-arrow-bottom-right"
 [[params.social]]
 URL = "#"
 icon = "ti-dribbble"
