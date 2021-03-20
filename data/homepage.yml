@@ -3,11 +3,13 @@ banner:
   title: The Valley of the Sun .NET User Groups
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: "The combined .NET user groups in the Valley of the Sun (Phoenix AZ USA
+    metropolitan area). \n\nDuring the Covid-19 pandemic, these groups meet together,
+    on a monthly basis, to discuss topics of interest to .NET developers.\n\nWhen
+    not in a global pandemic, these groups meet separately, as follows:\n\n* NWVDNUG
+    - in the NW valley, on the Wednesday before the 4th Thursday of each month, starting
+    at 6pm.\n\n* SEVDNUG - in the SE valley, on the 4th Thursday of each month, starting
+    at 6pm."
   button:
     enable: false
     label: know more
