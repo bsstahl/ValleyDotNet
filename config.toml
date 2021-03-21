@@ -13,7 +13,7 @@ weight = 2
 address = "PO Box 63262 Phoenix AZ 85082"
 author = "Barry S. Stahl"
 copyright = "Copyright &copy; 2021"
-description = "This is meta description"
+description = "The .NET User Groups located in the Valley of the Sun, the Phoenix Arizona USA metropolitan area."
 email = "valleydotnet_aaa4bebc-0287-4a52-98a3-0a0d509355ed@aznerds.com"
 google_analitycs_id = ""
 home = "Home"
@@ -28,6 +28,7 @@ URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 URL = "plugins/slick/slick.css"
 [[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
 URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.js]]
 URL = "plugins/jQuery/jquery.min.js"
