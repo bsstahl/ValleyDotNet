@@ -3,6 +3,8 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "The Valley of the Sun .NET User Groups"
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -18,9 +20,9 @@ weight = 5
 [params]
 address = "PO Box 63262 Phoenix AZ 85082"
 author = "Barry S. Stahl"
-copyright = "Copyrighht &copy; 2021"
+copyright = "Copyright &copy; 2021"
 description = "This is meta description"
-email = "valleyofthesundotnet@bsstahl.com"
+email = "valleydotnet_aaa4bebc-0287-4a52-98a3-0a0d509355ed@valleyofthesun.dev"
 google_analitycs_id = ""
 home = "Home"
 logo = "images/logo.svg"
@@ -52,5 +54,3 @@ icon = "ti-twitter"
 [[params.social]]
 URL = "https://twitter.com/sevdnug/"
 icon = "ti-twitter-alt"
-[markup.goldmark.renderer]
-unsafe= true
