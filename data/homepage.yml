@@ -9,7 +9,7 @@ about:
     meetup pages at [NWVDNUG](https://www.meetup.com/nwvdnug/) and [SEVDNUG](https://www.meetup.com/sevdnug/)
     to signup."
   button:
-    enable: false
+    enable: true
     label: know more
     URL: about
 skill:
