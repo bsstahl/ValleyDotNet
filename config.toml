@@ -9,14 +9,6 @@ unsafe = true
 URL = "about"
 name = "About"
 weight = 2
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
 [params]
 address = "PO Box 63262 Phoenix AZ 85082"
 author = "Barry S. Stahl"
@@ -29,7 +21,7 @@ logo = "images/logo.svg"
 phone = ""
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
