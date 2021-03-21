@@ -1,13 +1,13 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: The Valley's .NET User Groups
+date: 2019-05-12T12:14:34.000+06:00
+description: Information about the Valley of the Sun .NET User groups
+author_image: images/about/author.jpg
+author_signature: images/about/signature.png
+
 ---
+The combined .NET user groups in the Valley of the Sun (Phoenix AZ USA metropolitan area).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+During the Covid-19 pandemic, these groups meet together, on a monthly basis, to discuss topics of interest to .NET developers.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+See our meetup pages at [NWVDNUG](https://www.meetup.com/nwvdnug/) and [SEVDNUG](https://www.meetup.com/sevdnug/) to signup.
