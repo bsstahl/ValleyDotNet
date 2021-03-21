@@ -2,10 +2,12 @@
 date = 2019-11-22T01:00:00Z
 description = ""
 image = "/images/ryanrousseau.png"
-title = "Octopus Deploy with Multi-Tenant CD/CD | Part 1 - Test Different App Versions to Different Customers"
+title = "Octopus Deploy with Multi-Tenant CI/CD | Part 1"
 
 +++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oEjQap7Sxmc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Part 2 is [here](/blog/octopus-deploy-with-multi-tenant-cd-cd-part-2-test-different-app-versions-to-different-customers/).
 
 If you work on a multi-tenant application, you understand the value of multi-tenant deployments and deploying different versions of your application to different customers at different times.
 
