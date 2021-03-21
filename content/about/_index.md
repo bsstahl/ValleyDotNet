@@ -1,6 +1,6 @@
 ---
-title: The Valley's .NET User Groups
-date: 2019-05-12T12:14:34.000+06:00
+title: The Valley of the Sun .NET User Groups
+date: 2019-05-12T06:14:34+00:00
 description: Information about the Valley of the Sun .NET User groups
 author_image: images/about/author.jpg
 author_signature: images/about/signature.png
